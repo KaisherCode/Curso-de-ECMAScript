@@ -13,4 +13,4 @@ function newAdmin(name='Wilson',age=33,country='PE'){
     console.log(name,age,country);
 }
 newAdmin(); //Llamamos la function
-newAdmin('Pazzi',28,'MX');
+newAdmin('María',28,'MX');
