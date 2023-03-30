@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Freddy Huerto <hch.fredy@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
